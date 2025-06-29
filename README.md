@@ -18,3 +18,4 @@ Needs file `plugins/anythingllm_mcp_servers.json` following the [MCP Server Spec
   }
 }
 ```
+This entire folder then needs to be copied in the path `/app/server/storage/exoscale-mcp-server` to be used with AnythingLLM
